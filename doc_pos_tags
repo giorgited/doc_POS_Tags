@@ -1,0 +1,82 @@
+
+POS Tags
+	part of speech tagging, also sometimes called grammatical tagging is a process of tagging words in the sentences as particular part of speech based on its definition and context. (e.g. noun, verb, adjective, etc..)
+	Every word has a two to three letter identification.
+	
+	identifications: 
+	CC - Coordinating conjuction
+		ex: And, But, For, Nor, Or, So, Yet
+	CD - Cardinal number
+		ex: how many? -- I need two examples. Two serves as cardinal number POS
+	DT - Determiner
+		ex: the, those, that
+	EX - Existential there
+		ex: there is ..
+	FW - Foreign word
+		ex: un recognized word
+	IP - preposition or subordination conjuction
+		ex: placement identificator, -- object is IN the room.
+	JJ - Adjective
+		ex: natural language processing is FUN.
+	JJR - adjective, comparitive
+		ex: python is BETTER than c# (many will argue..)
+	JJS - Adjective, superlative
+		ex: best, most..
+	LS - List item marker
+	MD - Modal
+		ex: may, should
+	NN - Noun, singular or mass
+		ex: chair, computer, processor
+	NNS - Noun, plural
+		ex: chairs, computers, processors
+	NNP - Proper noun, singular
+		ex: God, Georgia 
+	NNPS - proper noun, plural
+		ex: Christmasses
+	PDT - Predeterminer
+		ex: ALL his work
+	POS - Possessive ending
+		ex: child's 
+	PRP - Personal pronoun
+		ex: me, you, he
+	PRP$ - Possessive pronoun
+		ex: my, his, hers
+	RB - Adverb
+		ex: hard, easy
+	RBR - Adverb, comparitive
+		ex: better, worse
+	RBS - Adverb, superlative
+		ex: best, worst 
+	RP - Particle 
+		ex: about
+	SYM - Symbol
+		ex: %,^,$,#
+	TO - to
+		ex: what to learn?
+	UH - INterjection
+		ex: oops..
+	VB - Verb, base form
+		ex: think
+	VBD - Verb, past tense
+		ex: thought
+	VBG - Verb, gerund or present participle
+		ex: thinking
+	VBN - Verb, past participle 
+		ex: sunken
+	VBP - Verb, non-3rd person singular present
+		ex: You think
+	VBZ - Verb, 3rd person singular present
+		ex: He thinks
+	WDT - WH-determiner
+		ex: whichever, whatever
+	WP - WH-pronoun
+		ex: what, who, whom
+	WP$ - Possessive wh-pronoun
+		ex: whose, whosever
+	WRB - WH-adverb
+		ex: where when
+
+
+sources: 
+	-http://www.clips.ua.ac.be/pages/mbsp-tags
+	-https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
